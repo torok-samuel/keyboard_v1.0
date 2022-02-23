@@ -334,7 +334,10 @@
       "esp32-library",
       "lm1117"
     ],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "cherry_mx",
+      "esp32"
+    ]
   },
   "meta": {
     "filename": "keyboard_v1.0.kicad_pro",
