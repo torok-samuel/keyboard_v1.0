@@ -334,10 +334,7 @@
       "esp32-library",
       "lm1117"
     ],
-    "pinned_symbol_libs": [
-      "cherry_mx",
-      "esp32"
-    ]
+    "pinned_symbol_libs": []
   },
   "meta": {
     "filename": "keyboard_v1.0.kicad_pro",
@@ -421,6 +418,22 @@
     [
       "e5b83e64-c70c-4e3c-91cb-1e480aa92410",
       ""
+    ],
+    [
+      "73706c15-7b31-4050-b84d-d56bae1a94cb",
+      "Cherry MX keys"
+    ],
+    [
+      "15bb9450-6078-40f4-9a0c-3b27173e6c06",
+      "WS2812B"
+    ],
+    [
+      "cf03d940-2841-4b92-9791-c9546ac4ba17",
+      "USB-C"
+    ],
+    [
+      "8e330684-479c-4f6f-8c95-3cb27465cf19",
+      "ESP32"
     ]
   ],
   "text_variables": {}
