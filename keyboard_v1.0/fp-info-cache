@@ -1,4 +1,4 @@
-19802434309780237
+19804081232994636
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -84494,7 +84494,7 @@ ESP32-S3-WROOM-1
 
 
 0
-61
+58
 41
 lm1117
 SOT230P700X180-4N
@@ -84503,3 +84503,10 @@ Integrated Circuit
 0
 4
 4
+lm1117
+lm1117 - sot223
+
+
+0
+39
+3
